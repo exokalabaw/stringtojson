@@ -1,0 +1,24 @@
+{
+  "name": "stringtojson",
+  "version": "1.0.0",
+  "description": "I was given data as a PDF. It copy and pasted as one long string and the information dates were all jumbled up.",
+  "main": "extractfromstring.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exokalabaw/stringtojson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exokalabaw/stringtojson/issues"
+  },
+  "homepage": "https://github.com/exokalabaw/stringtojson#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3"
+  }
+}
