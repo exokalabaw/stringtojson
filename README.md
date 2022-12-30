@@ -1,4 +1,4 @@
-# extract data from long string pasted from a pdf
+# extract specific data from long string pasted from a pdf
 I was given data as a PDF. It copy and pasted as one long string and the information dates were all jumbled up. 
 
 Example string from the data"
